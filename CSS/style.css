@@ -1,0 +1,32 @@
+			.font_title {
+				background-color: #63B8FF;
+				font-weight: bold;
+				font-style: italic;
+				font-size: 20px;
+				color: #27408B;
+			}
+
+			body {
+				padding-left: 10px;
+				text-indent: 80px;
+				font-size: 16px;
+				color: #00688B;
+				font-family: "Calibri", "Comic Sans MS";
+			}
+					
+			span {
+				font-weight: bold;
+				font-style: italic;	
+				font-size: 18px;
+					
+			}
+			
+			ul {
+				margin: 0px;
+				text-indent: 0px;
+				font-style: italic;	
+				list-style: square; 
+			}
+
+			
+
