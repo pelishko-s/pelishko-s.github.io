@@ -14,9 +14,6 @@
 				font-family: "Calibri", "Comic Sans MS";
 			}
 			
-			div {
-				text-align:center;
-			}
 					
 			span {
 				font-weight: bold;
@@ -35,6 +32,10 @@
 			
 			img {
 				float:left;
+			}
+			
+			div {
+				text-align:center;
 			}
 
 			
