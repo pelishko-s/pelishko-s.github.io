@@ -13,6 +13,10 @@
 				color: #00688B;
 				font-family: "Calibri", "Comic Sans MS";
 			}
+
+			div {
+				text-align: center;
+			}
 			
 					
 			span {
@@ -34,9 +38,7 @@
 				float:left;
 			}
 			
-			div {
-				text-align:center;
-			}
+			
 
 			
 
