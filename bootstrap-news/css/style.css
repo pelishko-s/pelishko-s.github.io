@@ -125,17 +125,17 @@ article div {
 }
 
 footer{
-	background-color: #34495e;
-	color: white;	
+/* 	background-color: #34495e;
+	color: white;	 */
 	height: 120px;
-	width: 100%; 
+/* 	width: 100%; 
 	position: fixed;
-	bottom: 0;
+	bottom: 0; */
 }
 
-footer h3{
+/* footer h3{
 	text-transform: uppercase;
-	margin-top: 50px;
+	margin-top: 50px; */
 	
 
 }
