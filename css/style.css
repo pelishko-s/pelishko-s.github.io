@@ -256,3 +256,25 @@ section#contact .section-heading {
   margin-bottom: 5px;
 }
 
+.sait-olimp{
+  text-align: left;
+}
+
+.sait-link{
+  color: black;
+  text-decoration: underline;
+  font-weight: bold; 
+}
+
+img.button {
+  height: 50px; 
+}
+
+.type-olimp h5{
+  padding: 20px;
+  text-align: center;
+  width:300px;
+  height:60px;
+  font-size: 18px;
+  color: black;
+}
